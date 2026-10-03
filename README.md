@@ -2,6 +2,8 @@
 
 ########
 
+# I made a change for 3.5.4
+
 - JDK 21
 - Maven 3.9
 - MySQL 8
